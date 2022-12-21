@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Data Analyst, currently searching for a job
+Here you can find my own projects that will show my skills
+
 <!--
 **BaakhOfficial/BaakhOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
