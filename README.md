@@ -1,6 +1,8 @@
-<div id="header">
+![Header](https://github.com/BaakhOfficial/BaakhOfficial/blob/main/header%20page.jpg)
+
+<!--<div id="header" align="center">
   <img src="https://github.com/BaakhOfficial/BaakhOfficial/blob/main/header%20page.jpg"/>
-</div>
+</div>-->
 
 <div id="badges">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBaakhOfficial">
