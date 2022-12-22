@@ -5,8 +5,10 @@
 </div>-->
 
 <div id="badges">
+  <a href="https://twitter.com/BaakhOfficial">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBaakhOfficial">
-  <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial"
+  </a>
+  <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial">
 </div>
   
 # About me
