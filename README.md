@@ -12,7 +12,7 @@
 </div>
   
 # About me
-Hi! I am a 25 y.o. Data Analyst with expirience in entrepreneurship, sales and marketing. My whole life, since my first job at 16 I've been working, searching for new heights, what translated now in good understanding of business process.
+Hi! I am a 25 y.o. Data Analyst with experience in entrepreneurship, sales and marketing. My whole life, since my first job at 16 I've been working, searching for new heights, what translated now in good understanding of business process.
   
 Now I am tired of enterpreneurship and all my expirience I translate in my analytics work. I understand what each employee needs and how to improve and scale your business, using data-driven decisions
   
