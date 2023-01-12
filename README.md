@@ -13,7 +13,11 @@
   <a href="https://twitter.com/BaakhOfficial">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBaakhOfficial">
   </a>
+  <a href="https://www.linkedin.com/in/baakhofficial">
+   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Twitter"/>
+  </a>
   <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial">
+
 </div><br>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&height=30&lines=About+me" alt="Typing SVG" /></a>
@@ -37,10 +41,16 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
   </div>
   
  ### My Stats:
+ <img width=400
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=baakhofficial&badges=2&show-avatar=false&style=--header-bg-color:%23282a36;--border-radius:4px;--header-text-color:%23f8f8f2;--bg-color:%2344475a;--badge-bg-color:%23f8f8f2;--badge-box-shadow:1px%203px%205px%20rgba%28189%2C%20147%2C%20249%2C%200.3%29;--border:1px%20solid%20%23f8f8f2%3B;"
+/>
+  
 <a href="https://git.io/streak-stats">
  <img align="center"
   src="http://github-readme-streak-stats.herokuapp.com?user=BaakhOfficial&theme=dracula&mode=weekly"/>
 </a>
+  
+  
 <!--<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaakhOfficial&layout=compact" />
 </a><br> -->
