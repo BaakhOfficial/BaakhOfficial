@@ -41,16 +41,17 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
   </div>
   
  ### My Stats:
- <img width=400
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=baakhofficial&badges=2&show-avatar=false&style=--header-bg-color:%23282a36;--border-radius:4px;--header-text-color:%23f8f8f2;--bg-color:%2344475a;--badge-bg-color:%23f8f8f2;--badge-box-shadow:1px%203px%205px%20rgba%28189%2C%20147%2C%20249%2C%200.3%29;--border:1px%20solid%20%23f8f8f2%3B;"
-/>
-  
-<a href="https://git.io/streak-stats">
+ <a href="https://git.io/streak-stats">
  <img align="center"
   src="http://github-readme-streak-stats.herokuapp.com?user=BaakhOfficial&theme=dracula&mode=weekly"/>
 </a>
-  
-  
+  <br><br>
+
+ 
+ <a href = https://profile.codersrank.io/user/baakhofficial>
+ <img width=400 align="center"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=baakhofficial&badges=2&show-avatar=false&style=--header-bg-color:%23282a36;--border-radius:4px;--header-text-color:%23f8f8f2;--bg-color:%2344475a;--badge-bg-color:%23f8f8f2;--badge-box-shadow:1px%203px%205px%20rgba%28189%2C%20147%2C%20249%2C%200.3%29;--border:1px%20solid%20%23f8f8f2%3B;"
+ /></a>
 <!--<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaakhOfficial&layout=compact" />
 </a><br> -->
