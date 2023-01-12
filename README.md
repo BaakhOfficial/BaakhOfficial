@@ -40,10 +40,10 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
 <a href="https://git.io/streak-stats">
  <img align="center"
   src="http://github-readme-streak-stats.herokuapp.com?user=BaakhOfficial&theme=dracula&mode=weekly"/>
-</a><br> <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaakhOfficial&hide=javascript,html,css,scss&layout=compact&exclude_repo=Homework_and_Links&theme=dracula" />
-</a><br>
+</a>
+<!--<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaakhOfficial&layout=compact" />
+</a><br> -->
 <!--
 <a href="https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst">
  <img align="center"
