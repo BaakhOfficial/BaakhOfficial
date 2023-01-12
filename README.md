@@ -3,12 +3,11 @@
 <img align="center"
   src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Information%20is%20the%20oil%20of%20the%2021st%20century,%20and%20analytics%20is%20the%20combustion%20engine.&author=Peter%20Sondergaard&theme=dracula"/></a>
 
+ <!-- <a href="https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst"><img src="https://stackoverflow.com/users/flair/20740500.png" width="208" height="58" alt="profile for Nikolay Baakh - Data Analyst at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nikolay Baakh - Data Analyst at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>-->
+
 <!--<div id="header" align="center">
   <img src="https://github.com/BaakhOfficial/BaakhOfficial/blob/main/header%20page.jpg"/>
 </div>-->
-
-
-
 <div id="badges">
   <a href="https://twitter.com/BaakhOfficial">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBaakhOfficial">
@@ -16,11 +15,18 @@
   <a href="https://www.linkedin.com/in/baakhofficial">
    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Twitter"/>
   </a>
+   <a href=https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst>
+  <img src=https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white alt="Stack Overflow"/>
+  </a>
+    <a href=https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst>
+  <img src=https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white alt="Stack Overflow"/>
+  </a>
+</div>
+<div id="badges2">
   <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial">
-
 </div><br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&height=30&lines=About+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=f8f8f2&vCenter=true&width=435&height=40&lines=About+me" alt="Typing SVG" /></a>
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
 
 <hr>
