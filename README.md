@@ -45,6 +45,7 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
  
  ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
   
  ### My Stats:
