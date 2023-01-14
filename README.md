@@ -44,9 +44,7 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
   </div>
  
  ### Blog Posts:
- 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
   
  ### My Stats:
