@@ -42,6 +42,12 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
+ 
+ ### Blog Posts:
+ 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
   
  ### My Stats:
  <a href="https://git.io/streak-stats">
