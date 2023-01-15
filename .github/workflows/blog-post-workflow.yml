@@ -15,5 +15,5 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://medium.com/feed/@baakhofficial"
-          template: '$counter. [$randomEmoji(😎,🧐,🤓,🤖,🐲,🧠,🦾,👍,👨‍,💻,🧨,✨,👔,👑,🥇,♟️,🔒,⚒️,📱,💻,💡,📚,💼,💯,🔥,💫,🚀) $title]($url)'
+          template: '$counter. [$randomEmoji(😎,🧐,🤓,🤖,🐲,🧠,🦾,👍,👨‍,💻,🧨,✨,👔,👑,🥇,♟️,🔒,⚒️,📱,💻,💡,📚,💼,💯,🔥,💫,🚀) $title]($url)$newline'
           tag_post_pre_newline: true
