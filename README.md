@@ -18,6 +18,10 @@
    <a href=https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst>
   <img src=https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white alt="Stack Overflow"/>
   </a>
+  <a href=https://medium.com/@baakhofficial>
+  <img src=https://img.shields.io/badge/Medium-12100E?style=flat=medium&logoColor=white alt="Personal Blog"/>
+  </a>
+  
 </div>
 <div id="badges2">
   <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial">
