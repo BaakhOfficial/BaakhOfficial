@@ -45,6 +45,7 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
  
  ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to fill gaps of your horse clinic data in Jupyter Notebook](https://medium.com/@baakhofficial/how-to-fill-gaps-of-your-horse-clinic-data-in-jupyter-notebook-bd2dac9366ec?source=rss-3c8ea9e25f0f------2)
 - [Introduction](https://medium.com/@baakhofficial/introduction-7b1eb45bbd5f?source=rss-3c8ea9e25f0f------2)
 <!-- BLOG-POST-LIST:END -->
   
