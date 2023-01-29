@@ -9,22 +9,25 @@
   <img src="https://github.com/BaakhOfficial/BaakhOfficial/blob/main/header%20page.jpg"/>
 </div>-->
 <div id="badges">
+  <a href="https://www.linkedin.com/in/baakhofficial">
+   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://twitter.com/BaakhOfficial">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBaakhOfficial">
   </a>
-  <a href="https://www.linkedin.com/in/baakhofficial">
-   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Twitter"/>
+  <a href=https://www.kaggle.com/baakhofficial>
+  <img src=https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white alt="Kaggle"/>
   </a>
    <a href=https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst>
   <img src=https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white alt="Stack Overflow"/>
   </a>
+</div>
+
+<div id="badges2">
+  <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial">
   <a href=https://medium.com/@baakhofficial>
   <img src=https://img.shields.io/badge/Medium-12100E?style=flat=medium&logoColor=white alt="Personal Blog"/>
   </a>
-  
-</div>
-<div id="badges2">
-  <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial">
 </div><br>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=f8f8f2&vCenter=true&width=435&height=40&lines=About+me" alt="Typing SVG" /></a>
