@@ -53,9 +53,10 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
  
  ### Latest Blog Posts on Medium:
 <!-- BLOG-POST-LIST:START -->
-1. [💻 18+ ChatGPT monetization potential](https://medium.com/@baakhofficial/18-chatgpt-monetization-potential-896cb3fef34f?source=rss-3c8ea9e25f0f------2)
-2. [🔥 How to fill gaps of your horse clinic data in Jupyter Notebook](https://medium.com/@baakhofficial/how-to-fill-gaps-of-your-horse-clinic-data-in-jupyter-notebook-bd2dac9366ec?source=rss-3c8ea9e25f0f------2)
-3. [💻 Introduction](https://medium.com/@baakhofficial/introduction-7b1eb45bbd5f?source=rss-3c8ea9e25f0f------2)
+1. [💻 How to use Midjourney indefinitely for free almost privately](https://medium.com/@baakhofficial/how-to-use-midjourney-indefinitely-for-free-almost-privately-4c103bd26523?source=rss-3c8ea9e25f0f------2)
+2. [🔥 18+ ChatGPT monetization potential](https://medium.com/@baakhofficial/18-chatgpt-monetization-potential-896cb3fef34f?source=rss-3c8ea9e25f0f------2)
+3. [💻 How to fill gaps of your horse clinic data in Jupyter Notebook](https://medium.com/@baakhofficial/how-to-fill-gaps-of-your-horse-clinic-data-in-jupyter-notebook-bd2dac9366ec?source=rss-3c8ea9e25f0f------2)
+4. [🐲 Introduction](https://medium.com/@baakhofficial/introduction-7b1eb45bbd5f?source=rss-3c8ea9e25f0f------2)
 
 <!-- BLOG-POST-LIST:END -->
   
