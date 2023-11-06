@@ -15,18 +15,12 @@
   <a href="https://twitter.com/BaakhOfficial">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBaakhOfficial">
   </a>
-  <a href=https://www.kaggle.com/baakhofficial>
-  <img src=https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white alt="Kaggle"/>
-  </a>
-   <a href=https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst>
-  <img src=https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white alt="Stack Overflow"/>
-  </a>
 </div>
 
 <div id="badges2">
   <img alt="counter" src="https://komarev.com/ghpvc/?username=BaakhOfficial">
   <a href=https://medium.com/@baakhofficial>
-  <img src=https://img.shields.io/badge/Medium-12100E?style=flat=medium&logoColor=white alt="Personal Blog"/>
+  <img src=https://img.shields.io/badge/Personal%20Website-8A2BE2 alt="Personal Blog"/>
   </a>
 </div><br>
   
@@ -51,7 +45,7 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
  
- ### Latest Blog Posts on Medium:
+ ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 1. [💻 In search for singularity. Trying to invent a new technology with ChatGPT 4. Part 1.](https://medium.com/@baakhofficial/in-search-for-singularity-trying-to-invent-a-new-technology-with-chatgpt-4-part-1-f0c6dbc88145?source=rss-3c8ea9e25f0f------2)
 2. [🔥 Data collection and preparation for suicide rate analysis](https://medium.com/@baakhofficial/data-collection-and-preparation-for-suicide-rate-analysis-28a044eb81c1?source=rss-3c8ea9e25f0f------2)
@@ -59,19 +53,7 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
 4. [🐲 18+ ChatGPT monetization potential](https://medium.com/@baakhofficial/18-chatgpt-monetization-potential-896cb3fef34f?source=rss-3c8ea9e25f0f------2)
 
 <!-- BLOG-POST-LIST:END -->
-  
- ### My Stats:
- <a href="https://git.io/streak-stats">
- <img align="center"
-  src="http://github-readme-streak-stats.herokuapp.com?user=BaakhOfficial&theme=dracula&mode=weekly"/>
-</a>
-  <br><br>
 
- 
- <a href = https://profile.codersrank.io/user/baakhofficial>
- <img width=400 align="center"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=baakhofficial&badges=2&show-avatar=false&style=--header-bg-color:%23282a36;--border-radius:4px;--header-text-color:%23f8f8f2;--bg-color:%2344474a;--badge-bg-color:%23f8f8f2;--badge-box-shadow:1px%203px%205px%20rgba%28189%2C%20147%2C%20249%2C%200.3%29;--border:1px%20solid%20%23f8f8f2%3B;"
- /></a>
 <!--<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaakhOfficial&layout=compact" />
 </a><br> -->
