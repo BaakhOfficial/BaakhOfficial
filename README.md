@@ -47,9 +47,7 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
  
  ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-1. [💻 In search for singularity. Trying to invent a new technology with ChatGPT 4. Part 1.](https://medium.com/@baakhofficial/in-search-for-singularity-trying-to-invent-a-new-technology-with-chatgpt-4-part-1-f0c6dbc88145?source=rss-3c8ea9e25f0f------2)
-2. [🔥 Data collection and preparation for suicide rate analysis](https://medium.com/@baakhofficial/data-collection-and-preparation-for-suicide-rate-analysis-28a044eb81c1?source=rss-3c8ea9e25f0f------2)
-3. [💻 How to use Midjourney indefinitely for free almost privately](https://medium.com/@baakhofficial/how-to-use-midjourney-indefinitely-for-free-almost-privately-4c103bd26523?source=rss-3c8ea9e25f0f------2)
-4. [🐲 18+ ChatGPT monetization potential](https://medium.com/@baakhofficial/18-chatgpt-monetization-potential-896cb3fef34f?source=rss-3c8ea9e25f0f------2)
+1. [💻 trest](https://baakhofficial.com/trest/)
+2. [🔥 Hello world!](https://baakhofficial.com/hello-world/)
 
 <!-- BLOG-POST-LIST:END -->
