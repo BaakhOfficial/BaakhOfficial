@@ -53,13 +53,3 @@ Now I am tired of enterpreneurship and all my expirience I translate in my analy
 4. [🐲 18+ ChatGPT monetization potential](https://medium.com/@baakhofficial/18-chatgpt-monetization-potential-896cb3fef34f?source=rss-3c8ea9e25f0f------2)
 
 <!-- BLOG-POST-LIST:END -->
-
-<!--<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaakhOfficial&layout=compact" />
-</a><br> -->
-<!--
-<a href="https://stackoverflow.com/users/20740500/nikolay-baakh-data-analyst">
- <img align="center"
-  src="https://stackoverflow-card.vercel.app/?userID=20740500&theme=dracula&showBorder=True"
-/></a>
--->
